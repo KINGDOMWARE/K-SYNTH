@@ -1,0 +1,10 @@
+I/O Assignment Analysis Status : Successful - Wed Jan 27 09:37:10 2021
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : LPM32
+Top-level Entity Name : COUNTER-TEST-C4
+Family : Cyclone IV E
+Device : EP4CE22F17C8
+Timing Models : Final
+Total pins : 48 / 154 ( 31 % )
+Total virtual pins : 0
+Total PLLs : 0 / 4 ( 0 % )

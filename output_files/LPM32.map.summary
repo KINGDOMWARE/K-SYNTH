@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 26 16:17:58 2021
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : LPM32
+Top-level Entity Name : COUNTER-TEST-C4
+Family : Cyclone IV E
+Total logic elements : 153
+    Total combinational functions : 127
+    Dedicated logic registers : 106
+Total registers : 106
+Total pins : 48
+Total virtual pins : 0
+Total memory bits : 4,096
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
