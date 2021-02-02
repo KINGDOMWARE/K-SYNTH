@@ -1,0 +1,153 @@
+-- Copyright (C) 2018  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=32;
+DEPTH=128;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	0	:	1405;
+	1	:	1488;
+	2	:	1577;
+	3	:	1670;
+	4	:	1770;
+	5	:	1875;
+	6	:	1986;
+	7	:	2105;
+	8	:	2230;
+	9	:	2362;
+	10	:	2503;
+	11	:	2652;
+	12	:	2809;
+	13	:	2976;
+	14	:	3153;
+	15	:	3341;
+	16	:	3539;
+	17	:	3750;
+	18	:	3973;
+	19	:	4209;
+	20	:	4459;
+	21	:	4724;
+	22	:	5005;
+	23	:	5303;
+	24	:	5618;
+	25	:	5952;
+	26	:	6306;
+	27	:	6681;
+	28	:	7079;
+	29	:	7500;
+	30	:	7946;
+	31	:	8418;
+	32	:	8919;
+	33	:	9449;
+	34	:	10011;
+	35	:	10606;
+	36	:	11237;
+	37	:	11905;
+	38	:	12613;
+	39	:	13363;
+	40	:	14157;
+	41	:	14999;
+	42	:	15891;
+	43	:	16836;
+	44	:	17837;
+	45	:	18898;
+	46	:	20022;
+	47	:	21212;
+	48	:	22473;
+	49	:	23810;
+	50	:	25226;
+	51	:	26726;
+	52	:	28315;
+	53	:	29998;
+	54	:	31782;
+	55	:	33672;
+	56	:	35674;
+	57	:	37796;
+	58	:	40043;
+	59	:	42424;
+	60	:	44947;
+	61	:	47620;
+	62	:	50451;
+	63	:	53451;
+	64	:	56630;
+	65	:	59997;
+	66	:	63565;
+	67	:	67344;
+	68	:	71349;
+	69	:	75591;
+	70	:	80086;
+	71	:	84849;
+	72	:	89894;
+	73	:	95239;
+	74	:	100902;
+	75	:	106902;
+	76	:	113259;
+	77	:	119994;
+	78	:	127129;
+	79	:	134689;
+	80	:	142698;
+	81	:	151183;
+	82	:	160173;
+	83	:	169697;
+	84	:	179788;
+	85	:	190478;
+	86	:	201805;
+	87	:	213805;
+	88	:	226518;
+	89	:	239988;
+	90	:	254258;
+	91	:	269377;
+	92	:	285395;
+	93	:	302366;
+	94	:	320345;
+	95	:	339394;
+	96	:	359575;
+	97	:	380957;
+	98	:	403610;
+	99	:	427610;
+	100	:	453037;
+	101	:	479976;
+	102	:	508516;
+	103	:	538754;
+	104	:	570790;
+	105	:	604731;
+	106	:	640691;
+	107	:	678788;
+	108	:	719151;
+	109	:	761914;
+	110	:	807220;
+	111	:	855219;
+	112	:	906073;
+	113	:	959951;
+	114	:	1017033;
+	115	:	1077509;
+	116	:	1141581;
+	117	:	1209463;
+	118	:	1281381;
+	119	:	1357576;
+	120	:	1438302;
+	121	:	1523828;
+	122	:	1614439;
+	123	:	1710439;
+	124	:	1812147;
+	125	:	1919903;
+	126	:	2034066;
+	127	:	2155018;
+END;
+

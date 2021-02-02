@@ -1,0 +1,6 @@
+
+State Machine - |COUNTER-TEST-C4|midi_in_2:inst|rcv_state
+Name rcv_state.00000000 rcv_state.00000010 rcv_state.00000001 
+rcv_state.00000000 0 0 0 
+rcv_state.00000001 1 0 1 
+rcv_state.00000010 1 1 0 

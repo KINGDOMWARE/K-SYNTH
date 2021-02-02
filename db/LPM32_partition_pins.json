@@ -1,0 +1,201 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "BUZ",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_ADR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_ADR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_NOTE_ADR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_NOTE_ADR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_NOTE_ADR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_NOTE_ADR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_NOTE_ADR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_NOTE_ADR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_NOTE_ADR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "TEST_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "TEST_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "TEST_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "TEST_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "TEST_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "TEST_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "TEST_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "WAVE_ROM_ADR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_IN[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_IN[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_IN[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_IN[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_IN[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_IN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PITCH_ROM_IN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PHASE[0]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "CLR",
+					"strict" : false
+				},
+				{
+					"name" : "CHAN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "CHAN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "CHAN[2]",
+					"strict" : false
+				},
+				{
+					"name" : "CHAN[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ON",
+					"strict" : false
+				},
+				{
+					"name" : "MIDI_IN",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
